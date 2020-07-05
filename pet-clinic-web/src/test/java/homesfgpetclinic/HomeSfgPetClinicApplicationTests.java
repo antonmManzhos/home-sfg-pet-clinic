@@ -1,4 +1,4 @@
-package home.sfg.petclinic.homesfgpetclinic;
+package homesfgpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
